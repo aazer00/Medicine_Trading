@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trading">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".DoctorProfile" android:screenOrientation="portrait" ></activity>
+        <activity
+            android:name=".Coversation"
+            android:windowSoftInputMode="adjustResize"
+            android:screenOrientation="portrait" ></activity>
+        <activity android:name=".Chats" android:screenOrientation="portrait" />
+        <activity android:name=".IDconfimation" android:screenOrientation="portrait" />
+        <activity android:name=".Forgot_next" android:screenOrientation="portrait" />
+        <activity android:name=".Forgot" android:screenOrientation="portrait"  />
+        <activity android:name=".Description" android:screenOrientation="portrait" />
+        <activity android:name=".Search_page" android:screenOrientation="portrait" />
+        <activity android:name=".Supplier_hmpa" android:screenOrientation="portrait" />
+        <activity android:name=".Pharmacy_hmpa" android:screenOrientation="portrait" />
+        <activity android:name=".Doctor_hmpa" android:screenOrientation="portrait" />
+        <activity android:name=".ChangePassword" android:screenOrientation="portrait" />
+        <activity android:name=".Consumer_hmpa" android:screenOrientation="portrait" />
+        <activity android:name=".Registration" android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity" android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
