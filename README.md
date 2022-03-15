@@ -1,5 +1,6 @@
 # Medicine_Trading
-# Overview
+
+<h2>Overview</h2>
 Simple App for trading medicine <br/>
 Features: Login, Registration, Private Chat, Search <br/>
 IDE: Android Studio. <br/>
