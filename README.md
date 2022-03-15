@@ -1,4 +1,10 @@
 # Medicine_Trading
+# Overview
+Simple App for trading medicine <br/>
+Features: Login, Registration, Private Chat, Search <br/>
+IDE: Android Studio.
+Technologies: Java, Ajax, PHP.
+
 <h2>Registration</h2>
 <img src="image/p1.png" width="350"/>
 <h2>Login</h2>
