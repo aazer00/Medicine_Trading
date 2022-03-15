@@ -4,7 +4,7 @@
 Simple App for trading medicine <br/>
 Features: Login, Registration, Private Chat, Search <br/>
 IDE: Android Studio. <br/>
-Technologies: Java, Ajax, PHP.
+Technologies: Java, Ajax, PHP, SQL, MySQL.
 
 <h2>Registration</h2>
 <img src="image/p1.png" width="350"/>
