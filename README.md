@@ -20,4 +20,4 @@ Technologies: Java, Ajax, PHP, SQL, MySQL.
 <img src="image/p6.png" width="350">
 <h2>Chat</h2>
 <img src="image/p7.png" width="350">
-<img src="image/p8.png" width="350">
+<img src="image/p8.png" width="350"> 
